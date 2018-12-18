@@ -21,3 +21,7 @@ Run `php artisan migrate`
 
 ## Run seed
 Run `php artisan db:seed`
+
+## Instalation demo 
+Part 1: https://www.screencast.com/t/C3gRu4JYe
+Part 2: https://www.screencast.com/t/0W7UB8l9w 
